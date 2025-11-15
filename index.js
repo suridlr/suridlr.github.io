@@ -1,0 +1,1 @@
+<div class="sk-ww-ebay-listing" data-embed-id="25619930"></div><script src="https://widgets.sociablekit.com/ebay-listing/widget.js" defer></script>
